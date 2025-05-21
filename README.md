@@ -6,16 +6,16 @@
 
 ## Português
 
-Este repositório contém as estruturas otimizadas por DFT do material bidimensional C₄N₂, puro e dopado com B, Si e P, bem como as configurações com átomos de hidrogênio adsorvidos. Os dados correspondem ao artigo:
+Este repositório contém as estruturas otimizadas por DFT do material bidimensional C4N2, puro e dopado com B, Si e P, bem como as configurações com átomos de hidrogênio adsorvidos. Os dados correspondem ao artigo:
 
-**Título**: [Título exato do artigo]  
-**Autores**: [Seu nome], et al.  
+**Título**: Metal-Free Doping Strategies in Two-Dimensional Carbon Nitride C4N2 for Enhanced Hydrogen Evolution Catalysis  
+**Autores**: Bruno Ipaves, João F Justo, James M de Almeida, Lucy VC Assali, Pedro Alves da Silva Autreto  
 **Publicado em**: [Nome da revista], [ano]  
 **DOI do artigo**: [https://doi.org/xxxxx](https://doi.org/xxxxx)
 
 ### 📂 Pastas e arquivos
 
-- `pristine/`: estrutura do C₄N₂ puro
+- `pristine/`: estrutura do C4N2 puro
 - `doped/`: estruturas dopadas com boro, silício e fósforo
 - `adsorption/`: estruturas com H adsorvido
 
@@ -29,16 +29,16 @@ Todas as estruturas estão no formato `.cif`, contendo as posições finais dos 
 
 ## English
 
-This repository contains DFT-optimized structures of the two-dimensional material C₄N₂, including pristine, B-, Si and P-doped configurations, and H-adsorbed models. The data corresponds to the following article:
+This repository contains DFT-optimized structures of the two-dimensional material C4N2, including pristine, B-, Si and P-doped configurations, and H-adsorbed models. The data corresponds to the following article:
 
-**Title**: [Exact article title]  
-**Authors**: [Your name], et al.  
+**Title**: Metal-Free Doping Strategies in Two-Dimensional Carbon Nitride C4N2 for Enhanced Hydrogen Evolution Catalysis  
+**Authors**: Bruno Ipaves, João F Justo, James M de Almeida, Lucy VC Assali, Pedro Alves da Silva Autreto  
 **Published in**: [Journal name], [year]  
 **DOI**: [https://doi.org/xxxxx](https://doi.org/xxxxx)
 
 ### 📂 Folders and files
 
-- `pristine/`: pristine C₄N₂ structure
+- `pristine/`: pristine C4N2 structure
 - `doped/`: B-, Si and P-doped structures
 - `adsorption/`: H-adsorbed models
 
