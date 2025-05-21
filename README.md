@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 Português
+## Português
 
 Este repositório contém as estruturas otimizadas por DFT do material bidimensional C₄N₂, puro e dopado com B, Si e P, bem como as configurações com átomos de hidrogênio adsorvidos. Os dados correspondem ao artigo:
 
@@ -27,7 +27,7 @@ Todas as estruturas estão no formato `.cif`, contendo as posições finais dos 
 
 ---
 
-## 📁 English
+## English
 
 This repository contains DFT-optimized structures of the two-dimensional material C₄N₂, including pristine, B-, Si and P-doped configurations, and H-adsorbed models. The data corresponds to the following article:
 
