@@ -23,8 +23,7 @@ Todas as estruturas estão no formato `.cif`, contendo as posições finais dos 
 
 ## 📌 Como citar este repositório
 
-> [Seu nome], et al. (ano). *Estruturas do artigo: C₄N₂ aplicado à reação de evolução do hidrogênio*. Zenodo. https://doi.org/zenodo.XXXXXXX
-
+> Ipaves, B., F. Justo, J., M. de Almeida, J., V. C. Assali, L., & Alves da Silva Autreto, P. (2025). Metal-Free Doping Strategies in Two-Dimensional Carbon Nitride C$_4$N$_2$ for Enhanced Hydrogen Evolution Catalysis (v1.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15489707
 ---
 
 ## English
@@ -46,4 +45,4 @@ All structures are in `.cif` format, containing atomic positions after structura
 
 ## 📌 How to cite this repository
 
-> [Your name], et al. (year). *Structures from the article: C₄N₂ for the hydrogen evolution reaction*. Zenodo. https://doi.org/zenodo.XXXXXXX
+> Ipaves, B., F. Justo, J., M. de Almeida, J., V. C. Assali, L., & Alves da Silva Autreto, P. (2025). Metal-Free Doping Strategies in Two-Dimensional Carbon Nitride C$_4$N$_2$ for Enhanced Hydrogen Evolution Catalysis (v1.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15489707
